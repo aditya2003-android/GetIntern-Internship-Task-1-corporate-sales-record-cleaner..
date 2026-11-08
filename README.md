@@ -1,6 +1,6 @@
 # Corporate Sales Record Cleaner (Automated Data Sanitization Pipeline)
 
-- **Author:** Teki Mohit Sai Tulasi
+- **Author:** Animireddy Srinu
 - **Program:** GetIntern.in 8-Week Data Science & Machine Learning Track
 - **Phase 1 / Week 1 Milestone Project:** Data Cleaning & EDA
 
